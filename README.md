@@ -1,10 +1,12 @@
 <div align="center">
 
-# Hi 👋, I'm Ashish Kumar
+<h1>Hi 👋, I'm Ashish Kumar</h1>
 
-### 🚀 Software Engineer | Full Stack Developer | AI Enthusiast
+<p>
+Software Engineer • Full Stack Developer • AI Enthusiast
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Building+Scalable+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning" />
 
 <img src="https://komarev.com/ghpvc/?username=ashish-code6&label=Profile+Views&color=0e75b6&style=flat"/>
 
@@ -12,18 +14,18 @@
 
 ---
 
-## 💫 About Me
+### 💫 About Me
 
 - 💼 Former **Associate Software Engineer** at a **Product-Based Company**
-- 🚀 Passionate about building scalable and impactful applications
+- 🚀 Passionate about building scalable applications
 - 🌱 Currently learning **System Design**, **DevOps**, and **Generative AI**
 - 💡 Love solving real-world problems through code
 - 🌍 Open to Open Source collaboration
-- 🎯 Goal: Build products used by millions of users
+- 🎯 Building projects that create real impact
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Connect With Me
 
 <p align="center">
 
@@ -47,39 +49,39 @@
 
 ---
 
-# 💻 Tech Stack
+### 💻 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,react,next,nodejs,express,mongodb,postgres,mysql,prisma,docker,git,github,linux,aws,tailwind,html,css,vscode"/>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,mysql,prisma,docker,git,github,linux,aws,tailwind,html,css,vscode" />
 
 </p>
 
 ---
 
-# 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashish-code6&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=ashish-code6&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-code6&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish-code6&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+### 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ashish-code6&theme=tokyonight&hide_border=true"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=ashish-code6&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Graph
+### 📈 Contribution Graph
 
 <p align="center">
 
@@ -89,34 +91,24 @@
 
 ---
 
-# 🏆 GitHub Trophies
+### 📅 Contribution Calendar
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ashish-code6&theme=tokyonight&no-frame=true&column=4"/>
+<img src="https://ghchart.rshah.org/409ba5/ashish-code6"/>
 
 </p>
 
 ---
 
-# ⚡ Recent Activity
+### ⚡ Recent GitHub Activity
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ashish-code6/ashish-code6/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 💬 Random Dev Quote
+### 💬 Dev Quote
 
 <p align="center">
 
@@ -128,7 +120,7 @@
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+⭐ **Thanks for visiting my profile!**
 
 *"Code • Learn • Build • Repeat"* 🚀
 
