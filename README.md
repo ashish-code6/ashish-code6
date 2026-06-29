@@ -3,7 +3,7 @@
 <h1>Hi 👋, I'm Ashish Kumar</h1>
 
 <p>
-Software Engineer • Full Stack Developer • AI Enthusiast
+Software Engineer • Full Stack Developer + AI • AI Enthusiast
 </p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Building+Scalable+Applications;Always+Learning" />
