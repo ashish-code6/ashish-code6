@@ -13,7 +13,6 @@ Software Engineer • Full Stack Developer + AI • AI Enthusiast
 </div>
 
 ---
-
 ### 💫 About Me
 
 - 💼 Former **Associate Software Engineer** at a **Product-Based Company**
