@@ -78,10 +78,6 @@ Software Engineer • Full Stack Developer + AI • AI Enthusiast
 
 </p>
 
----
-
-
----
 
 
 ---
